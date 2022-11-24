@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="titulo">Cálculo del Factorial</string>
+    <string name="texto_boton">INTRODUCIR UN Nº</string>
+    <string name="texto_resultado">El resultado es:</string>
+    <string name="texto_activity2">Dame un Nº</string>
+    <string name="textoEdit_activity2">Número natural</string>
+    <string name="texto_boton2">CALCULAR</string>
+</resources>
